@@ -1,0 +1,11 @@
+{
+    "catalogo": {
+        "id": 40028922,
+        "titulo":"The Amazing Digital Circus: The Final Act",
+        "tipo": "Filme",
+        "ano": 2026,
+        "generos": ["Terror psicologíco", "humor negro", "animação"],
+        "nota": 8.54,
+        "assistido": false
+    }
+}
