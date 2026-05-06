@@ -5,8 +5,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Crispim Bruno Da Silva Junior
+- Matricula: 923833
 
 ## Prints do console do navegador
 
